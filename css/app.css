@@ -1,3 +1,10 @@
+body{
+    background-image: url(../img/guitar_dark_background-852x480.jpg);
+    position: sticky;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-attachment: inherit;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -27,3 +34,12 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #4CAF50;
+
+
+.banner {
+     background-image:url(../img/guitar_dark_background-852x480.jpg);
+    height: 100%;
+    width: 100rem;
+    background-color: black;
+    color: wheat;
+}
