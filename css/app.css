@@ -1,16 +1,13 @@
 body{
-    background-image: url(../img/guitar_dark_background-852x480.jpg);
-    position: sticky;
-    background-repeat: no-repeat;
-    width: 100%;
-    background-attachment: inherit;
+    background-color: #2D3531;
+
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #E8DBDB;
 }
 
 li {
@@ -26,10 +23,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #111;
+    background-color: ##4CAF50;
 }
 .nav{
     width: 100%;
+
 }
 
 .active {
@@ -37,9 +35,9 @@ li a:hover:not(.active) {
 
 
 .banner {
-     background-image:url(../img/guitar_dark_background-852x480.jpg);
-    height: 100%;
-    width: 100rem;
-    background-color: black;
-    color: wheat;
+    height: 40eem;
+    width: 100%;
+  background-image: url(../img/guitar_dark_background-852x480.jpg);
+    opacity: 0.4;
+    background-color: #E8DBDB;
 }
